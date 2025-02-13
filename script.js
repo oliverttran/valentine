@@ -1,6 +1,6 @@
 const dialogue = document.querySelector(".dialogue");
-const buttonOne = document.querySelector('.button-1');
-const buttonTwo = document.querySelector('.button-2');
+const buttonOne = document.querySelector('.buttonOptionOne');
+const buttonTwo = document.querySelector('.buttonOptionTwo');
 const gif = document.querySelector('.gif');
 
 let index = 0;
